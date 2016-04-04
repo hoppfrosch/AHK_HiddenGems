@@ -13,4 +13,4 @@
 #include %A_LineFile%\..\HiddenGems
 #include glob.ahk
 
-Version := "0.1.0-beta.1"
+Version := "0.2.0-unstable.0"
