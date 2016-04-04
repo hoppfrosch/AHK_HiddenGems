@@ -32,7 +32,6 @@ MsgBox %list%
 	Returns:
 		list of matched path patterns
 
-	
 	Example:		
 	>Glob(list, "C:\Program Files\?u*y\*\*.exe")
 	>MsgBox %list%

@@ -1,4 +1,4 @@
-﻿/*
+/*
 	Title: HiddenGems
 		
 	A collection of hidden gems from Autohotkey Forums. This is a collection of AHK-snippets which might com handy sometimes
@@ -13,4 +13,4 @@
 #include %A_LineFile%\..\HiddenGems
 #include glob.ahk
 
-Version := "0.1.0"
+Version := "0.1.0-unstable.2"
