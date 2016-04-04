@@ -6,6 +6,8 @@ echo.
 SET WORK=MKDOC_TEMP
 mkdir %WORK%
 copy ..\lib\HiddenGems.ahk %WORK%
+mkdir %WORK%\HiddenGems
+copy ..\lib\HiddenGems\glob.ahk %WORK%\HiddenGems
 
 ::path to the natural doc folder
 SET NDPATH=d:\Usr\programme\NaturalDocs\
