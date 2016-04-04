@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("lic",["Information"],[["License",,[[,,,,0,"File:HiddenGems.ahk:License"]]],["License:",,[[,,,,0,"File:HiddenGems/glob.ahk:License_"]]]]);

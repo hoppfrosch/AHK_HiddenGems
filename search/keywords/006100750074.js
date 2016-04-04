@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("aut",["Information"],[["Author:",,[[,,,,0,"File:HiddenGems/glob.ahk:Author_"]]]]);

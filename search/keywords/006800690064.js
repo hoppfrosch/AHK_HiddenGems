@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("hid",["Section"],[["HiddenGems",,[[,,,,0,"File:HiddenGems.ahk:HiddenGems"]]]]);

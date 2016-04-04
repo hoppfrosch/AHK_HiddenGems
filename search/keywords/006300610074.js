@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("cat",["Information"],[["Categories:",,[[,,,,0,"File:HiddenGems/glob.ahk:Categories_"]]]]);
