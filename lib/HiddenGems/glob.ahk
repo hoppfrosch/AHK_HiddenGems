@@ -33,8 +33,8 @@ MsgBox %list%
 		list of matched path patterns
 
 	Example:		
-	>Glob(list, "C:\Program Files\?u*y\*\*.exe")
-	>MsgBox %list%
+	> Glob(list, "C:\Program Files\?u*y\*\*.exe")
+	> MsgBox %list%
 */
 Glob(ByRef list, Pattern, IncludeDirs:=0)
 {
