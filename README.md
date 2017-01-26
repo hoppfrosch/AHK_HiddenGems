@@ -6,6 +6,6 @@ This is a collection of AHK-snippets/-libraries/-functions I found on the net wh
 * **Filesystem**
  * [glob](/lib/HiddenGems/glob.ahk) - iterates the given path pattern, returning a list of matched directory 
 * **Misc**
-
+ * [GUID / UUID]((/lib/HiddenGems/GUID.ahk) - calculates Globally Unique IDentifier (GUID) & Universally Unique IDentifier (UUID)  
 ***
 **Compiled by**: [hoppfrosch@gmx.de](mailto:hoppfrosch@gmx.de)
