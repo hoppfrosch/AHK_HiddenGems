@@ -14,4 +14,4 @@
 #include glob.ahk
 #include GUID.ahk
 
-Version := "0.1.1"
+Version := "0.3.0-unstable.4"

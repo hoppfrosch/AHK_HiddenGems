@@ -25,7 +25,7 @@ MsgBox %list%
 		glob iterates the given path pattern, returning a list of matched directory entries
 	
 	Parameters:
-		list - list with found patterns to be retruned
+		list - list with found patterns to be returned
 		pattern - path pattern to matched
 		IncludeDirs - flag to include directories in matched pathes (else only files will be matched)
 
@@ -33,8 +33,8 @@ MsgBox %list%
 		list of matched path patterns
 
 	Example:		
-	> Glob(list, "C:\Program Files\?u*y\*\*.exe")
-	> MsgBox %list%
+> Glob(list, "C:\Program Files\?u*y\*\*.exe")
+> MsgBox %list%
 */
 Glob(ByRef list, Pattern, IncludeDirs:=0)
 {
