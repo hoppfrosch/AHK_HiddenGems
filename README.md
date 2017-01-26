@@ -1,5 +1,11 @@
 #AHK-HiddenGems [![AutoHotkey](https://img.shields.io/badge/Language-AutoHotkey-yellowgreen.svg)](https://autohotkey.com/)
 
-A collection of hidden gems from Autohotkey Forums. This is a collection of AHK-snippets found on the net which I found useful.
+This is a collection of AHK-snippets/-libraries/-functions I found on the net which I found useful.
 
+## Libraries
+* **Filesystem**
+ * [glob](/lib/HiddenGems/glob.ahk) - iterates the given path pattern, returning a list of matched directory 
+* **Misc**
+
+***
 **Compiled by**: [hoppfrosch@gmx.de](mailto:hoppfrosch@gmx.de)

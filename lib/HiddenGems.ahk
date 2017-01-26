@@ -12,5 +12,6 @@
 
 #include %A_LineFile%\..\HiddenGems
 #include glob.ahk
+#include GUID.ahk
 
-Version := "0.2.0-unstable.0"
+Version := "0.2.0-unstable.2"
