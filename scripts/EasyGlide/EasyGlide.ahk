@@ -8,10 +8,10 @@
     The distance and "bouncyness" can be adjusted by changing constants
 
 	About: Author
-		ManaUser, Laszlo 
+		ManaUser, PhiLo, Laszlo 
 
 	About: Source 
-		https://autohotkey.com/board/topic/18184-gui-float-question-expertwise-person-help-needed/page-1
+		https://autohotkey.com/board/topic/18184-gui-float-question-expertwise-person-help-needed/#entry119229
 
 	About: Categories 
 		gui, window	

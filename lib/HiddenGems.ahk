@@ -11,11 +11,11 @@
 	The single sources do have their own license. Have a look into the sourcecode of each gem
 
 	About: Version
-	Version 0.2.0+8
+	Version 0.2.0+10
 */
 
 #include %A_LineFile%\..\HiddenGems
 #include glob.ahk
 #include GUID.ahk
 
-Version := "0.2.0+8"
+Version := "0.2.0+10"
