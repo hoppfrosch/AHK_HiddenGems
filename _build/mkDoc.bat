@@ -5,9 +5,14 @@ echo.
 
 SET WORK=MKDOC_TEMP
 mkdir %WORK%
-copy ..\lib\HiddenGems.ahk %WORK%
-mkdir %WORK%\HiddenGems
-copy ..\lib\HiddenGems\glob.ahk %WORK%\HiddenGems
+COPY ..\HiddenGems.txt %WORK%
+mkdir %WORK%\lib
+copy ..\lib\HiddenGems.ahk %WORK%\lib
+mkdir %WORK%\lib\HiddenGems
+copy ..\lib\HiddenGems\glob.ahk %WORK%\lib\HiddenGems
+copy ..\lib\HiddenGems\GUID.ahk %WORK%\lib\HiddenGems
+mkdir %WORK%\scripts
+copy ..\scripts\ThrowWindow\ThrowWindow.ahk %WORK%\scripts
 
 ::path to the natural doc folder
 SET NDPATH=d:\Usr\programme\NaturalDocs\

@@ -1,18 +1,19 @@
 /* ---------------------------------------------------------------------------------------
 	File: HiddenGem/glob.ahk
-	
-	File Globbing
 
-	About: Author: 
+	About: Description
+	  File Globbing
+
+	About: Author
 		Lexikos
 
-	About: Source: 
+	About: Source 
 		https://autohotkey.com/board/topic/26846-wildcard-folders/#entry173593
 
-	About: Categories: 
+	About: Categories 
 		file, path	
 
-	About: License: 
+	About: License
 		No license given
 */ 
 
