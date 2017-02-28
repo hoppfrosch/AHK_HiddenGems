@@ -7,6 +7,7 @@ json := JSON.Load(output)
 
 ; Pattern to detect line containing the Version-Information
 search := "iO)^(?P<PRE>\s*Version\s+\:=\s+\"")(?P<VERSION>.*)(?P<POST>\""\s+.*)"
+search2 := "iO)^(?P<PRE>\s*Version\s+)(?P<VERSION>.*)(?P<POST>\s+.*)"
 ; Replace existing version by gitVersion-Ouput (JSON-Member SemVer)
 newVersion := json["FullSemVer"]
 
@@ -20,12 +21,15 @@ fileOut := FileOpen(fn, "w")
 
 while (Line := fileInp.ReadLine()) {
     ModLine :=  Trim(Line,"`n")
-    FoundPos := RegExMatch(ModLine, Search, Match)
 	OutputDebug % ModLine
+    FoundPos := RegExMatch(ModLine, Search, Match) 
+	if (!FoundPos) {
+		 FoundPos := RegExMatch(ModLine, Search2, Match) 
+	}
     if (FoundPos) {
     	if (Match["VERSION"] <> newVersion) {
         	ModLine := Match["PRE"] newVersion Match["POST"]
-        	MsgBox 0, % "Version Update", % "Updated version from <" Match["VERSION"] "> to <" newVersion ">", 13 
+        	OutputDebug %  ">>>>>>> Updated version from <" Match["VERSION"] "> to <" newVersion "> in Line: " ModLine
     	}
     }
     fileOut.WriteLine(ModLine)
