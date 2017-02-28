@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("glo",["Function","File"],[["Glob",,[[,,,,0,"File:HiddenGems/glob.ahk:Glob"],["HiddenGem/","glob.ahk",,,1,"File:HiddenGems/glob.ahk:HiddenGem/glob.ahk"]]]]);
+NDSearch.OnPrefixDataLoaded("glo",["Function","File"],[["Glob",,[[,,,,0,"File:lib/HiddenGems/glob.ahk:Glob"],["HiddenGem/","glob.ahk",,,1,"File:lib/HiddenGems/glob.ahk:HiddenGem/glob.ahk"]]]]);

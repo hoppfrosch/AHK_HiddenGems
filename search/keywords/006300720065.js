@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("cre",["Function"],[["CreateGUID",,[[,,,,0,"File:lib/HiddenGems/GUID.ahk:CreateGUID"]]],["CreateUUID",,[[,,,,0,"File:lib/HiddenGems/GUID.ahk:CreateUUID"]]]]);

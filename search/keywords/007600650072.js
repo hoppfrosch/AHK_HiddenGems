@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ver",["Information"],[["Version",,[[,,,,0,"File:lib/HiddenGems.ahk:Version"]]],["Version:",,[[,,,,0,"File:HiddenGems.txt:Version_"]]]]);

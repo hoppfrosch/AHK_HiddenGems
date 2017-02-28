@@ -1,0 +1,1 @@
+NDFramePage.OnPageTitleLoaded("File:lib/HiddenGems.ahk","HiddenGems.ahk");NDSummary.OnSummaryLoaded("File:lib/HiddenGems.ahk",[["AutoHotKey","AutoHotKey"]],[["Groups","Group"],["Information","Information"],["Sections","Section"]],[[24,0,2,"HiddenGems","HiddenGems"],[25,0,0,"Information","Information"],[26,0,1,"License","License"],[27,0,1,"Version","Version"]]);

@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("des",["Information"],[["Description",,[[,,,,0,"File:lib/HiddenGems/glob.ahk:Description"]]]]);

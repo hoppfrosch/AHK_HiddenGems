@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("sou",["Information"],[["Source:",,[[,,,,0,"File:HiddenGems/glob.ahk:Source_"]]]]);
+NDSearch.OnPrefixDataLoaded("sou",["Information"],[["Source",,[[,,,,0,"File:lib/HiddenGems/glob.ahk:Source"]]]]);

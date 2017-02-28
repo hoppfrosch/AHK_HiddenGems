@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("ise",["Function"],[["IsEqualGUID",,[[,,,,0,"File:lib/HiddenGems/GUID.ahk:IsEqualGUID"]]]]);

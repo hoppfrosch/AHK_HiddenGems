@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("hid",["Section"],[["HiddenGems",,[[,,,,0,"File:HiddenGems.ahk:HiddenGems"]]]]);
+NDSearch.OnPrefixDataLoaded("hid",["Section"],[["HiddenGems",,[[,,"AutoHotKey",,0,"File:lib/HiddenGems.ahk:HiddenGems"],[,,"Text File",,0,"File:HiddenGems.txt:HiddenGems"]]]]);
