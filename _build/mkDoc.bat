@@ -45,11 +45,14 @@ echo.
 popd
 
 ECHO Publish documentation to gh-page branch ...
-pushd ..
-rmdir /S /Q gh-pages_NEW
-MKDIR gh-pages_NEW
-popd
-pushd ..\gh-pages_NEW
+pushd ..\..\AHK_HiddenGems_gh_pages
+rmdir /S /Q styles
+rmdir /S /Q search
+rmdir /S /Q other
+rmdir /S /Q menu
+rmdir /S /Q files
+rmdir /S /Q _ndProj
+DEL index.html
 xcopy /E /Y %ROOT%\%DOC% .
 popd
 rmdir /S /Q %WORK%
