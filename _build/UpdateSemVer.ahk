@@ -8,7 +8,7 @@ json := JSON.Load(output)
 ; Pattern to detect line containing the Version-Information
 search := "iO)^(?P<PRE>\s*Version\s+\:=\s+\"")(?P<VERSION>.*)(?P<POST>\""\s+.*)"
 ; Replace existing version by gitVersion-Ouput (JSON-Member SemVer)
-newVersion := json["SemVer"]
+newVersion := json["FullSemVer"]
 
 fn := "HiddenGems.ahk"
 fnTmp := fn ".tmp"

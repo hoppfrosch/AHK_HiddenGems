@@ -13,6 +13,7 @@ copy ..\lib\HiddenGems\glob.ahk %WORK%\lib\HiddenGems
 copy ..\lib\HiddenGems\GUID.ahk %WORK%\lib\HiddenGems
 mkdir %WORK%\scripts
 copy ..\scripts\ThrowWindow\ThrowWindow.ahk %WORK%\scripts
+copy ..\scripts\EasyGlide\EasyGlide.ahk %WORK%\scripts
 
 ::path to the natural doc folder
 SET NDPATH=d:\Usr\programme\NaturalDocs\
