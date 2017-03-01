@@ -11,6 +11,8 @@ copy ..\lib\HiddenGems.ahk %WORK%\lib
 mkdir %WORK%\lib\HiddenGems
 copy ..\lib\HiddenGems\glob.ahk %WORK%\lib\HiddenGems
 copy ..\lib\HiddenGems\GUID.ahk %WORK%\lib\HiddenGems
+mkdir %WORK%\lib\HiddenGems\System
+copy ..\lib\HiddenGems\System\GetBinaryType.ahk %WORK%\lib\HiddenGems\System
 mkdir %WORK%\scripts
 copy ..\scripts\ThrowWindow\ThrowWindow.ahk %WORK%\scripts
 copy ..\scripts\EasyGlide\EasyGlide.ahk %WORK%\scripts
