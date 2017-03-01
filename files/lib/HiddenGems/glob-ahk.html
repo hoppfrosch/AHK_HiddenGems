@@ -8,46 +8,46 @@
 
 <body onload="NDLoader.OnLoad('Content');" class="NDPage NDContentPage">
 
-<a name="HiddenGem/glob.ahk"></a><a name="Topic35"></a><div class="CTopic TFile LAutoHotKey first">
+<a name="HiddenGem/glob.ahk"></a><a name="Topic44"></a><div class="CTopic TFile LAutoHotKey first">
  <div class="CTitle"><span class="Qualifier">HiddenGem/</span>&#8203;glob.ahk</div>
 </div>
 
-<a name="Information"></a><a name="Topic36"></a><div class="CTopic TGroup LAutoHotKey">
+<a name="Information"></a><a name="Topic45"></a><div class="CTopic TGroup LAutoHotKey">
  <div class="CTitle">Information</div>
 </div>
 
-<a name="Description"></a><a name="Topic37"></a><div class="CTopic TInformation LAutoHotKey">
+<a name="Description"></a><a name="Topic46"></a><div class="CTopic TInformation LAutoHotKey">
  <div class="CTitle">Description</div>
  <div class="CBody"><p>File Globbing</p></div>
 </div>
 
-<a name="Author"></a><a name="Topic38"></a><div class="CTopic TInformation LAutoHotKey">
+<a name="Author"></a><a name="Topic47"></a><div class="CTopic TInformation LAutoHotKey">
  <div class="CTitle">Author</div>
  <div class="CBody"><p>Lexikos</p></div>
 </div>
 
-<a name="Source"></a><a name="Topic39"></a><div class="CTopic TInformation LAutoHotKey">
+<a name="Source"></a><a name="Topic48"></a><div class="CTopic TInformation LAutoHotKey">
  <div class="CTitle">Source</div>
  <div class="CBody"><p><a href="https://autohotkey.com/board/topic/26846-wildcard-folders/#entry173593" target="_top">https://&#8203;autohotkey&#8203;.com&#8203;/board&#8203;/topic&#8203;/26846-wildcard-folders&#8203;/&#8203;#entry173593</a></p></div>
 </div>
 
-<a name="Categories"></a><a name="Topic40"></a><div class="CTopic TInformation LAutoHotKey">
+<a name="Categories"></a><a name="Topic49"></a><div class="CTopic TInformation LAutoHotKey">
  <div class="CTitle">Categories</div>
  <div class="CBody"><p>file, path</p></div>
 </div>
 
-<a name="License"></a><a name="Topic41"></a><div class="CTopic TInformation LAutoHotKey">
+<a name="License"></a><a name="Topic50"></a><div class="CTopic TInformation LAutoHotKey">
  <div class="CTitle">License</div>
  <div class="CBody"><p>No license given</p></div>
 </div>
 
-<a name="Functions"></a><a name="Topic42"></a><div class="CTopic TGroup LAutoHotKey">
+<a name="Functions"></a><a name="Topic51"></a><div class="CTopic TGroup LAutoHotKey">
  <div class="CTitle">Functions</div>
 </div>
 
-<a name="Glob"></a><a name="Topic43"></a><div class="CTopic TFunction LAutoHotKey last">
+<a name="Glob"></a><a name="Topic52"></a><div class="CTopic TFunction LAutoHotKey last">
  <div class="CTitle">Glob</div>
- <div id="NDPrototype43" class="NDPrototype WideForm CStyle"><table><tr><td class="PBeforeParameters">Glob(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">ByRef&nbsp;</td><td class="PName">list,</td><td></td><td class="last"></td></tr><tr><td class="first"></td><td class="PName">Pattern,</td><td></td><td class="last"></td></tr><tr><td class="first"></td><td class="PName">IncludeDirs</td><td class="PDefaultValueSeparator">:=&nbsp;</td><td class="PDefaultValue last"><span class="SHNumber">0</span></td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div>
+ <div id="NDPrototype52" class="NDPrototype WideForm CStyle"><table><tr><td class="PBeforeParameters">Glob(</td><td class="PParametersParentCell"><table class="PParameters"><tr><td class="PType first">ByRef&nbsp;</td><td class="PName">list,</td><td></td><td class="last"></td></tr><tr><td class="first"></td><td class="PName">Pattern,</td><td></td><td class="last"></td></tr><tr><td class="first"></td><td class="PName">IncludeDirs</td><td class="PDefaultValueSeparator">:=&nbsp;</td><td class="PDefaultValue last"><span class="SHNumber">0</span></td></tr></table></td><td class="PAfterParameters">)</td></tr></table></div>
  <div class="CBody"><p>glob iterates the given path pattern, returning a list of matched directory entries</p><div class="CHeading">Parameters</div><table class="CDefinitionList"><tr><td class="CDLEntry">list<div class="CDLParameterType">ByRef</div></td><td class="CDLDefinition"><p>list with found patterns to be returned</p></td></tr><tr><td class="CDLEntry">pattern<div class="CDLParameterType">ByRef</div></td><td class="CDLDefinition"><p>path pattern to matched</p></td></tr><tr><td class="CDLEntry">IncludeDirs<div class="CDLParameterType">ByRef</div></td><td class="CDLDefinition"><p>flag to include directories in matched pathes (else only files will be matched)</p></td></tr></table><div class="CHeading">Returns</div><p>list of matched path patterns</p><div class="CHeading">Example</div><pre>Glob(list, &quot;C:\Program Files\?u*y\*\*.exe&quot;)<br />MsgBox %list%</pre></div>
 </div>
 

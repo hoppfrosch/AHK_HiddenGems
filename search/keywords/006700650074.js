@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("get",["Function","File"],[["GetBinaryType",,[[,,,,0,"File:lib/HiddenGems/System/GetBinaryType.ahk:GetBinaryType"],["HiddenGem/System/","GetBinaryType.ahk",,,1,"File:lib/HiddenGems/System/GetBinaryType.ahk:HiddenGem/System/GetBinaryType.ahk"]]]]);

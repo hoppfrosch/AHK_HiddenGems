@@ -1,1 +1,1 @@
-NDSearch.OnPrefixIndexLoaded(["ahk","aut","cat","cre","des","eas","glo","gui","hid","ise","lic","sou","thr","uui","ver"]);
+NDSearch.OnPrefixIndexLoaded(["ahk","aut","cat","cre","des","eas","get","glo","gui","hid","ise","lic","sou","thr","uui","ver"]);
