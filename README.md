@@ -9,6 +9,8 @@ More documentation on the single items [can be found here](https://hoppfrosch.gi
  * [glob](/lib/HiddenGems/glob.ahk) - iterates the given path pattern, returning a list of matched directory 
 * **Misc**
  * [GUID / UUID](/lib/HiddenGems/GUID.ahk) - calculates Globally Unique IDentifier (GUID) & Universally Unique IDentifier (UUID)
+* **System**
+ * [GetBinaryType](lib/HiddenGems/System/GetBinaryType.ahk) - Determines whether a file is an executable (.exe) file, and if so, which subsystem runs the executable file.
 
 ## Scripts
 * **Window Management**
