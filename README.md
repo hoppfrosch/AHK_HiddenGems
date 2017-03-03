@@ -13,9 +13,11 @@ More documentation on the single items [can be found here](https://hoppfrosch.gi
  * [GetBinaryType](lib/HiddenGems/System/GetBinaryType.ahk) - Determines whether a file is an executable (.exe) file, and if so, which subsystem runs the executable file.
 
 ## Scripts
+* **Dektop**
+ * [InterfaceLiftWallpaperChanger](scripts/WallpaperChanger/InterfaceLiftWallpaperChanger.ahk) - Download a random wallpaper from InterfaceLIFT.com and set it to desktop
 * **Window Management**
  * [EasyGlide](scripts/EasyGlide/EasyGlide.ahk) - Make the middle mouse button drag any window, in any internal point. Additionally, if you let go while dragging, the window will "glide"  for short distance, and even bounce off the edges of the screen.
  * [ThrowWindow](scripts/ThrowWindow/ThrowWindow.ahk) - Throw any window by dragging it with the middle mousebutton and releaseing it. The window will float around the monitor bouncing of the screen edges.
-   
+  
 ***
 **Compiled by**: [hoppfrosch@gmx.de](mailto:hoppfrosch@gmx.de)
