@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("aut",["Information"],[["Author",,[[,,,,0,"File:lib/HiddenGems/glob.ahk:Author"]]]]);
+NDSearch.OnPrefixDataLoaded("aut",["Information"],[["Author",,[[,,,,0,"File:concepts/EasyGlide.ahk:Author"]]]]);

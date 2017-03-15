@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("thr",["File"],[["ThrowWindow",,[[,"ThrowWindow.ahk",,,0,"File:scripts/ThrowWindow.ahk:ThrowWindow.ahk"]]]]);
+NDSearch.OnPrefixDataLoaded("thr",["File"],[["ThrowWindow",,[[,"ThrowWindow.ahk",,,0,"File:concepts/ThrowWindow.ahk:ThrowWindow.ahk"]]]]);

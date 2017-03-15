@@ -1,0 +1,1 @@
+NDSearch.OnPrefixDataLoaded("int",["File"],[["InterfaceLiftWallpaperChanger",,[[,"InterfaceLiftWallpaperChanger.ahk.ahk",,,0,"File:scripts/InterfaceLiftWallpaperChanger.ahk:InterfaceLiftWallpaperChanger.ahk.ahk"]]]]);

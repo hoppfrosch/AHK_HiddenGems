@@ -1,1 +1,1 @@
-NDSearch.OnPrefixDataLoaded("cat",["Information"],[["Categories",,[[,,,,0,"File:lib/HiddenGems/glob.ahk:Categories"]]]]);
+NDSearch.OnPrefixDataLoaded("cat",["Information"],[["Categories",,[[,,,,0,"File:concepts/EasyGlide.ahk:Categories"]]]]);
