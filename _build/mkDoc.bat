@@ -21,6 +21,7 @@ REM ----- CONCEPTS -------
 mkdir %WORK%\concepts
 copy ..\concepts\ThrowWindow\ThrowWindow.ahk %WORK%\concepts
 copy ..\concepts\EasyGlide\EasyGlide.ahk %WORK%\concepts
+copy ..\concepts\ShapedWindow\Window_DonutShaped.ahk %WORK%\concepts
 
 
 ::path to the natural doc folder

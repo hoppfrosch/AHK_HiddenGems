@@ -15,7 +15,7 @@
 		https://autohotkey.com/board/topic/18184-gui-float-question-expertwise-person-help-needed/page-5#entry270491
 
 	About: Categories 
-		
+		gui, window
 
 	About: License
 		No license given
